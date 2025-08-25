@@ -6,7 +6,7 @@ O projeto foi feito utilizando **HTML, CSS, JavaScript** e **Bootstrap**.
 ---
 
 ## 🚀 Acesse o site
-🔗 [Clique aqui para ver o site online](https://github.com/Kaicki/ayrton-.git)
+🔗 [Clique aqui para ver o site online](https://kaicki.github.io/ayrton-/)
 
 ---
 
